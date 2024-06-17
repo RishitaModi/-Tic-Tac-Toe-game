@@ -27,8 +27,6 @@ Display Tic-Tac-Toe-game screen
 
 ![Screenshot (34)](https://github.com/RishitaModi/-Tic-Tac-Toe-game/assets/149221459/b0c86e5b-257c-4dc1-986b-70bc05b1ab84)
 
-![Screenshot (35)](https://github.com/RishitaModi/-Tic-Tac-Toe-game/assets/149221459/aed0ada0-171a-4915-91c9-16279bf6fe14)
-
 ![Screenshot (36)](https://github.com/RishitaModi/-Tic-Tac-Toe-game/assets/149221459/ebaa943c-a07f-4c7c-97f9-2aa981a31e81)
 
 
